@@ -1,0 +1,287 @@
+img.logo-head {
+    max-width: 50%;
+    position: relative;
+    margin-top: 100px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.page-loading {
+  background-color: #222d32;
+}
+
+.side-nav .rooms-list {
+  background-color: #222d32;
+}
+
+.account-box .options {
+  background-color: #222d32;
+}
+
+.account-box .options button:hover, .account-box .options a:hover {
+    color: #fff;
+    background: #1e282c;
+    border-left-color: #3c8dbc;
+}
+
+.account-box .options button, .account-box .options a {
+    color: rgba(255,255,255,0.5);
+    border-bottom-color: #222d32;
+}
+
+.flex-nav header {
+  background-color: #367fa9;
+}
+
+.flex-nav header h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.flex-nav .content {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #b8c7ce;
+  background-color: #222d32;
+}
+
+.account-box .info {
+  background-color: #367fa9;
+}
+
+.fixed-title {
+    background: #3c8dbc;
+    border-bottom-color: #3c8dbc;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ffffff;
+}
+
+.fixed-title .icon-hash:before {
+    content: '\e958';
+    color: #ffffff;
+}
+
+.arrow:before, .arrow:after {
+    background-color: #ffffff;
+}
+
+.icon-star-empty {
+    content: '\e854';
+    color: #fff;
+    transition: ease-in-out 0.1s;
+}
+
+.icon-star-empty:hover {
+    content: '\e854';
+    color: #fecf09;
+}
+
+.account-box .info h4 {
+    color: #ffffff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.full-page {
+    background: #ffffff;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.login-terms {
+    color: #5f5f5f;
+}
+
+.login-terms a {
+    color: #0e70b3;
+}
+
+.login-terms a:hover {
+    color: #2e97de;
+}
+
+.main-content {
+      font-family: 'Source Sans Pro', sans-serif;
+}
+
+.side-nav .rooms-list {
+      font-family: 'Source Sans Pro', sans-serif;
+}
+
+.account-box .options {
+      font-family: 'Source Sans Pro', sans-serif;
+}
+
+.side-nav .footer {
+    background: #fff;
+    background-color: #f8f8f8;
+}
+
+.side-nav .footer {
+    background: #fff;
+    background-color: #f8f8f8;
+}
+
+.flex-nav .input-line input[type='text'], .flex-nav .input-line input[type='password'], .flex-nav .input-line select {
+    border-color: rgba(255,255,255,0.6);
+    background-color: #ffffff;
+    color: rgba(34,45,50,1);
+    border-radius: 3px;
+}
+
+.flex-nav footer {
+    background-color: #367fa9;
+}
+
+.flex-nav footer>div {
+  text-align: center;
+}
+
+.flex-nav .input-line select {
+    border-color: rgba(255,255,255,0.6);
+    background-color: #fff;
+    color: rgb(34, 45, 50);
+    border-radius: 3px;
+}
+
+.button:before {
+    background-color: rgba(255, 165, 0, 0);
+}
+
+.button.button.primary {
+  color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+.button.button.primary:hover {
+  background-color: orange;
+  color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+.button {
+  border-radius: 3px;
+  transition: ease-in-out 0.1s;
+  box-shadow: none;
+  color: white;
+}
+
+.button-primary:hover {
+  color: white;
+  background-color: orange; 
+  box-shadow: none;
+}
+
+.button.button.save {
+  background-color: #d73925;
+  color: white;
+}
+
+.button.button.save:hover {
+  background-color: #d9534f;
+  color: white;
+}
+
+.button.button.start-import {
+    color: white;
+    background-color: #00a65a;
+    border-color: #008d4c;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.button.button.refresh-clients {
+    color: white;
+    background-color: #00a65a;
+    border-color: #008d4c;
+    border-width: 1px;
+    border-style: solid;
+}
+
+button.button.refresh-clients:hover {
+    background-color: #008e4d;
+}
+
+.button.button.send {
+    color: white;
+    background-color: #00a65a;
+    border-color: #008d4c;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.button.button.refresh:hover {
+    background-color: orange;
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+.button.button.refresh {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+.button.clean.primary {
+    font-weight: normal;
+    background-color: #d73925;
+}
+
+.button.clean.primary:hover {
+    background-color: #c64942;
+}
+
+.button.clean:hover {
+  background-color: orange;
+  color: white;
+}
+
+.button.clean {
+    background-color: #13679a;
+    color: white;
+    border-width: 1px;
+    border-color: rgba(0,0,0,0.1);
+    border-style: solid;
+} 
+
+.button.button.test-notifications:hover {
+    background-color: orange;
+}
+
+.submit .button {
+  background-color: #d73925;
+}
+
+.button.delete, .button.remove, .button.red {
+    background-color: #d73925;
+}
+
+.text-right .button:hover {
+  background-color: orange;
+} 
+
+.button.button.primary.send:hover {
+  background-color: #008e4d;
+}
+
+.button.button.primary.login {
+  background-color: #13679a;
+  color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+.button.button.primary.login:hover {
+  background-color: orange;
+  color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.1);
+}
