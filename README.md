@@ -18,9 +18,9 @@ I'm using Source Sans Pro for this CSS so you will need to reference it in the H
 
 - SAVE CHANGES
 
-### Screenshot
+### Screenshots
 
-
+![Some random design elements to show it off a little](/adminlte-chat.png?raw=true "Screenshots")
 
 ### Credit for the inspiration:
 https://almsaeedstudio.com/preview
